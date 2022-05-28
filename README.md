@@ -1,1 +1,1 @@
-# Design-patterns
+# Final task I have done from subject called "Software development methodologies" which deals with design patters in software engineering. The final task has been done using Astah Professional tool for modelling.
